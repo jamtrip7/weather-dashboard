@@ -1,6 +1,6 @@
 #Weather-Dashboard
 
-![Dashboard Image]()
+![Dashboard Image](https://github.com/jamtrip7/weather-dashboard/blob/main/assets/screenshot/weather-dashboard-screenshot.jpg)
 
 > [Weather Dashboard]()
 
