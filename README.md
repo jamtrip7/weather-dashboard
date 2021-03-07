@@ -2,7 +2,7 @@
 
 ![Dashboard Image](https://github.com/jamtrip7/weather-dashboard/blob/main/assets/screenshot/weather-dashboard-screenshot.jpg)
 
-> [Weather Dashboard]()
+> [Weather Dashboard](https://jamtrip7.github.io/weather-dashboard/)
 
 ---
 
